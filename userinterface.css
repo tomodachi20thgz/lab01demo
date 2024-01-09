@@ -3,3 +3,18 @@ div{
     border: thin solid red;
 }
 
+.myheader {
+    background-color: black;
+    color: white;
+}
+
+.body {
+    background-color: green;
+    color: aliceblue;
+}
+
+.footer {
+    background-color: purple;
+    color: red;
+}
+
